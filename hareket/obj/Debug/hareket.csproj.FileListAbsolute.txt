@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\hareket\hareket\bin\Debug\hareket.exe.config
+C:\Users\User\source\repos\hareket\hareket\bin\Debug\hareket.exe
+C:\Users\User\source\repos\hareket\hareket\bin\Debug\hareket.pdb
+C:\Users\User\source\repos\hareket\hareket\obj\Debug\hareket.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\hareket\hareket\obj\Debug\hareket.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\hareket\hareket\obj\Debug\hareket.Form1.resources
+C:\Users\User\source\repos\hareket\hareket\obj\Debug\hareket.Properties.Resources.resources
+C:\Users\User\source\repos\hareket\hareket\obj\Debug\hareket.csproj.GenerateResource.cache
+C:\Users\User\source\repos\hareket\hareket\obj\Debug\hareket.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\hareket\hareket\obj\Debug\hareket.exe
+C:\Users\User\source\repos\hareket\hareket\obj\Debug\hareket.pdb
